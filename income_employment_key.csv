@@ -1,0 +1,32 @@
+﻿2017 OES Estimates,
+,
+Occupational Employment Statistics (OES) Survey,
+"Bureau of Labor Statistics, Department of Labor",
+website:  www.bls.gov/oes,
+,
+File Description:,
+"2017 Metropolitan Statistical Area (MSA), cross-industry, cross-ownership estimates for the eleven large MSAs that have metropolitan divisions",
+,
+,
+Field,Field Description
+area,"MSA, metropolitan division, or state FIPS code, or OES-specific nonmetropolitan area code "
+area_name,Area name (only on metropolitan and nonmetropolitan area files)
+occ_title,Standard Occupational Classification title or OES-specific title for the occupation
+tot_emp,Estimated total employment rounded to the nearest 10 (excludes self-employed)
+emp_prse,"Percent relative standard error (RSE) for the employment. Relative standard error is a measure of the reliability of a statistic; the smaller the relative standard error, the more precise the estimate."
+pct_total ,Percent of industry employment in the given occupation (only on the national industry files). Percents may not total to 100 due to occupational data not published separately.
+pct_rpt,Percent of establishments reporting the given occupation in the given industry 
+jobs_1000,"The number of jobs (employment) in the given occupation per 1,000 jobs in the given area"
+loc_quotient,"The location quotient represents the ratio of an occupation’s share of employment in a given area to that occupation’s share of employment in the U.S. as a whole. For example, an occupation that makes up 10 percent of employment in a specific metropolitan area compared with 2 percent of U.S. employment would have a location quotient of 5 for the area in question. (Only on the state, metropolitan, and nonmetropolitan statistical area files.)"
+h_mean,Mean hourly wage
+a_mean,Mean annual wage 
+mean_prse ,"Percent relative standard error (RSE) for the mean wage. Relative standard error is a measure of the reliability of a statistic; the smaller the relative standard error, the more precise the estimate."
+h_median,Hourly median wage (or the 50th percentile)
+a_median,Annual median wage (or the 50th percentile)
+,
+Notes:,
+*  = indicates that a wage estimate is not available,
+**  = indicates that an employment estimate is not available,
+"# = indicates a wage that is equal to or greater than $100.00 per hour or $208,000 per year",
+~ =indicates that the percent of establishments reporting the occupation is less than 0.5%,
+,
